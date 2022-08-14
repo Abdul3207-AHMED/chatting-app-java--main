@@ -1,9 +1,10 @@
+ // packege import 
 package sample;
-
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
+// main file of client side operation
 
 public class Client {
     public static void main(String[] args){
